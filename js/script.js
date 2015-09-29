@@ -1,3 +1,3 @@
 <script>
-	alert('SHUUUUUUU!!');
+alert('coucou');
 </script>
